@@ -1,3 +1,9 @@
+build
+sample
+test
+
+compile_commands.json
+
 # Prerequisites
 *.d
 
